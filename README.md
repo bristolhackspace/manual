@@ -1,0 +1,2 @@
+# manual
+The Hackspace manual
