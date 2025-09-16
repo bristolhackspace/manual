@@ -17,21 +17,25 @@ Welcome to Bristol Hackspace. We have put together this manual to help you navig
    :maxdepth: 3
    :caption: Rules
 
-   hackspace-rules
-   building-rules
-   health-and-safety
-   conduct
-   fair-use
-   tools
-   donations
-   storage
-   guests
-   events
-   membership
+   rules/hackspace
+   rules/building
+   rules/health-and-safety
+   rules/conduct
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Manual
+
+   manual/fair-use
+   manual/tools
+   manual/donations
+   manual/storage
+   manual/guests
+   manual/events
+   manual/membership
 
 .. toctree::
    :maxdepth: 3
    :caption: Procedures
 
-   complaints
+   procedures/complaints

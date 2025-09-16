@@ -68,7 +68,7 @@ Emergency Front Door Release
 
 The both the inner and outer front doors to hackspace are normally opened via a electronic switch. If these switches fail to release the door in an emergency, you can disable the door locking system by pressing the green break-glass next to the door. Pressing a green break-glass will not set off the building's fire alarm.
 
-.. image:: images/door-release.jpg
+.. image:: door-release.jpg
 
 Fire Extinguishers
 ^^^^^^^^^^^^^^^^^^
