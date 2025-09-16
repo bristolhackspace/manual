@@ -1,19 +1,13 @@
 Hackspace Rules
 ===============
 
-
-0. Don't be on Fire!
+0: Don't be on Fire!
 --------------------
 
 Your safety and the safety of others is your responsibility, so you must always consider the risks and hazards of your actions, and challenge unsafe behaviour in others. Wear appropriate safety gear. Report all incidents. See our :doc:`/health-and-safety` document for more detail.
 
 1: Be Excellent to Each-Other
 -----------------------------
-
-.. toctree::
-   :hidden:
-
-   conduct
 
 This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our :doc:`conduct` for more detail.
 
@@ -45,7 +39,7 @@ Hackspace welcomes donations of useful components and interesting stuff to hack,
 7: Get Inducted
 ---------------
 
-Do not use any tool you are not comfortable and confident using. Formal inductions are mandatory to use some of our more dangerous or costly machinery. See our :ref:`induction` guide.
+Do not use any tool you are not comfortable and confident using. Formal inductions are mandatory to use some of our more dangerous or costly machinery. See our :ref:`inductions` guide.
 
 8: Be Legal
 -----------
@@ -60,9 +54,4 @@ Guests, visitors, children, and even pets are welcome, but must be supervised by
 10: Follow the Building's Rules Too
 -----------------------------------
 
-.. toctree::
-   :hidden:
-
-   building
-
-Hackspace is a tenant of Meridian Studios, so you must follow their rules too. Please don't park on the forecourt or put unsuitable materials in the bins. Remember to check that the shutter, windows, and doors are secure when you go. See the :doc:`building` for more detail.
+Hackspace is a tenant of Meridian Studios, so you must follow their rules too. Please don't park on the forecourt or put unsuitable materials in the bins. Remember to check that the shutter, windows, and doors are secure when you go. See the :doc:`building-rules` for more detail.

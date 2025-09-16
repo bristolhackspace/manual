@@ -31,3 +31,46 @@ What to do in the Event of a Fire
 * Warn others in the space as you leave.
 * Raise the alarm, if it is not already sounding, by pressing a red break-glass.
 * Once outside, phone the fire brigade. Our alarm is not automatically linked to them.
+
+Fire Escapes
+^^^^^^^^^^^^
+
+There are two fire escapes from Hackspace. These are:
+
+* The main entrance / front door
+* The door at the back of the Main Room
+
+Fire Alarm Break-Glasses
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Red Break-glasses which sound the fire alarm are located:
+
+* Between the inner and outer front doors to Hackspace
+* Beside the fire escape at the back of the Main Room
+* In the CNC Room
+
+Resetting the Fire Alarm
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+If the fire alarm is sounding and you think it is a false alarm, you can reset it using the control panel. The control panel is located in the cupboard under the stairs between the inner and outer front doors to Hackspace.
+
+To reset the alarm:
+
+* Locate the red plastic key stored on top of alarm panel, insert it into the panel, and turn
+* Press the red button labelled “1”
+* Press the green button labelled “2”
+* Remove the key and put it back on top of the panel
+
+The alarm system is shared with the tenants above us, so do not assume it is a false alarm just because Hackspace isn't on fire. Check upstairs too!
+
+Emergency Front Door Release
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The both the inner and outer front doors to hackspace are normally opened via a electronic switch. If these switches fail to release the door in an emergency, you can disable the door locking system by pressing the green break-glass next to the door. Pressing a green break-glass will not set off the building's fire alarm.
+
+.. image:: images/door-release.jpg
+
+Fire Extinguishers
+^^^^^^^^^^^^^^^^^^
+
+There are fire extinguishers located beside each fire escape and beside the laser cutter. If you feel confident in doing so, you can use these to tackle a very small fire.

@@ -6,15 +6,21 @@
 Welcome to the Bristol Hackspace Manual!
 ========================================
 
+.. note::
+
+   This is still a work in progress. Refer to the Bristol Hackspace Wiki for the currently active manual.
+
 Welcome to Bristol Hackspace. We have put together this manual to help you navigate the processes, conventions and rules of the Hackspace.
 
 
 .. toctree::
    :maxdepth: 3
-   :includehidden:
+   :caption: Rules
 
-   rules/index
+   hackspace-rules
+   building-rules
    health-and-safety
+   conduct
    fair-use
    tools
    donations
@@ -22,3 +28,10 @@ Welcome to Bristol Hackspace. We have put together this manual to help you navig
    guests
    events
    membership
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Procedures
+
+   complaints
