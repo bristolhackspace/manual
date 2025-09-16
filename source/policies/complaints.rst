@@ -1,4 +1,4 @@
-Complaints Procedure
+Complaints Policy
 ====================
 
 It is the policy of Bristol Open Technology Lab C.I.C. (encompassing Bristol Hackspace) to deal with all complaints swiftly, fairly, and proactively.

@@ -20,7 +20,6 @@ Welcome to Bristol Hackspace. We have put together this manual to help you navig
    rules/hackspace
    rules/building
    rules/health-and-safety
-   rules/conduct
 
 .. toctree::
    :maxdepth: 3
@@ -36,6 +35,7 @@ Welcome to Bristol Hackspace. We have put together this manual to help you navig
 
 .. toctree::
    :maxdepth: 3
-   :caption: Procedures
+   :caption: Policies
 
-   procedures/complaints
+   policies/conduct
+   policies/complaints

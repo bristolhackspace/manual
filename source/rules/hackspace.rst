@@ -9,7 +9,7 @@ Your safety and the safety of others is your responsibility, so you must always 
 1: Be Excellent to Each-Other
 -----------------------------
 
-This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our :doc:`/rules/conduct` for more detail.
+This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our :doc:`/policies/conduct` for more detail.
 
 2: Pay Monthly Membership
 -------------------------
